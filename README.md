@@ -25,4 +25,5 @@ Administrador: Autenticable, Reportable y Gestionable
 Supervisor: Autenticable y Reportable
 
 Video explicativo ejercicio3:
-https://youtu.be/v9gFwdFASH0
+https://epnecuador.sharepoint.com/:v:/s/VideodeBDD/IQCu2ZSzNIuYRp71GQXTla-LATqvCuVJS9_alVCo6tzf5Qc?e=6n5log
+
