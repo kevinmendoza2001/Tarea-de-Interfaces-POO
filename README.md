@@ -15,11 +15,11 @@ Clases: PagoEfectivo, PagoTarjeta, Transferencia.
 Tarea 3: Sistema de roles empresariales
 Objetivo: diferenciar responsabilidades con varias interfaces.
 Interfaces:
-Autenticable → iniciar sesión
-Reportable → generar reportes
-Gestionable → gestionar datos
+Autenticable,iniciar sesión.
+Reportable,generar reportes.
+Gestionabl,gestionar datos.
 Clases:
-Cajero: Autenticable + Gestionable
-Administrador: Autenticable + Reportable + Gestionable
+Cajero: Autenticable y Gestionable
+Administrador: Autenticable, Reportable y Gestionable
 
-Supervisor: Autenticable + Reportable
+Supervisor: Autenticable y Reportable
