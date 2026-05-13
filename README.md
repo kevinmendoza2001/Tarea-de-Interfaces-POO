@@ -23,3 +23,6 @@ Cajero: Autenticable y Gestionable
 Administrador: Autenticable, Reportable y Gestionable
 
 Supervisor: Autenticable y Reportable
+
+Video explicativo ejercicio3:
+https://youtu.be/v9gFwdFASH0
